@@ -1,4 +1,8 @@
 # React + Vite + Tailwindcss
+**Crear proyecto vue + vite**
+```
+npm create vite@latest
+```
 ### https://tailwindcss.com/docs/installation/using-vite
 
 **instalador dentro del proyecto sirve vue, react, probar si sirve para otro framework**
